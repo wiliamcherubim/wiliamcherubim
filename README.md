@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi , I'm Wiliam
 
-<!--
-**wiliamcherubim/wiliamcherubim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I've been studiyng coding since Jun/22. My main languages are Java and Python
 
-Here are some ideas to get you started:
+💬 Before that I worked as a quality analyst in automotive industry for over 20 years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Also, I have skills in MySQL, Javascript, CSS and Html, and I speak a very good English with an Ielts test
+
+
+
+🤔 This is my personal profile on Instagram @wiliamch. My professional profile on LinkedIn is Wiliam Cherubim
+
+My Skills
+
+Languages & Frameworks: Java Python Javascript MySQL
+
+DevOps Git GitHub Jira
+
+Data Science Pandas NumPy Matplotlib Google Colab 
+
+Utilities Postman AWS 
+
