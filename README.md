@@ -1,6 +1,6 @@
 Hi , I'm Wiliam
 
-💼 I've been studiyng coding since Jun/22. My main languages are Java and Python
+💼 I've been studiyng coding since Jun/22. Actually I stydy Computer engineering at UNIVESP and System Analisys and Development at Descomplica. My main languages are Java and Python
 
 💬 Before that I worked as a quality analyst in automotive industry for over 20 years
 
