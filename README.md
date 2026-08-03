@@ -2,7 +2,7 @@ Hi , I'm Wiliam
 
 💼 I've been studiyng coding since Jun/22. Actually I stydy Computer engineering at UNIVESP and System Analisys and Development at Descomplica. My main languages are Java and Python
 
-💬 Before that I worked as a quality analyst in automotive industry for over 20 years
+💬 I work now as QA Intern testing and finding Bugs front and Backend in an ERP system in development and before that I worked as a quality analyst in automotive industry for over 20 years
 
 🌱 Also, I have skills in MySQL, Javascript, CSS and Html, and I speak a very good English with an Ielts test
 
