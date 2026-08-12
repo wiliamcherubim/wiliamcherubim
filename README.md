@@ -12,7 +12,8 @@ Hi , I'm Wiliam
 
 My Skills
 
-Languages & Frameworks: ![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![MySQL](https://shields.io) ![MariaDB](https://shields.io) ![Anaconda](https://shields.io) ![Apache Maven](https://shields.io) ![Playwright](https://shields.io)
+Languages & Frameworks: ![Java](https://shields.io)  ![Python](https://shields.io) ![JavaScript](https://shields.io) ![MySQL](https://shields.io)  ![MariaDB](https://shields.io)![Anaconda](https://shields.io) ![Apache Maven](https://shields.io) ![Playwright](https://shields.io)
+
 
 
 
